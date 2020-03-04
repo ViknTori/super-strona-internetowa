@@ -1,0 +1,1 @@
+Projekt na zaliczenie przedmiotu TSIA - strona internetowa. W teorii ma być o pisaniu, ale na razie jest Lorem Ipsum.

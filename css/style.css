@@ -1,0 +1,173 @@
+HTML {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-image: url(../img/tlo.jpg);
+    text-align: center;
+    font-family: 'Advent Pro', sans-serif;
+}
+
+.kolor_1 {
+    background-color: #222224;
+    color: #8D8D91;
+}
+.kolor_2 {
+    background-color: #1A1A1B;
+    color: #8D8D91;
+}
+.kolor_3 {
+    background-color: #0B0B17;
+    color: #8E8E91;
+}
+.kolor_4 {
+    background-color: #8D8D91;
+    color: #1A1A1B;
+}
+.kolor_5 {
+    background-color: #8E8E91;
+    color: #1A1A1B;
+}
+.kolor_6 {
+    background-color: #222123;
+    color: #8E8C91;
+}
+.kolor_7 {
+    background-color: #19191A;
+    color: #8E8C91;
+}
+.kolor_8 {
+    background-color: #100B16;
+    color: #8F8D91;
+}
+.kolor_9 {
+    background-color: #8E8C91;
+    color: #19191A;
+}
+.kolor_10 {
+    background-color: #8F8D91;
+    color: #19191A;
+}
+.kolor_11 {
+    background-color: #1F2021;
+    color: #8B8E90;
+}
+.kolor_12 {
+    background-color: #181818;
+    color: #8B8E90;
+}
+.kolor_13 {
+    background-color: #0A1115;
+    color: #8C8E90;
+}
+.kolor_14 {
+    background-color: #8B8E90;
+    color: #181818;
+}
+.kolor_15 {
+    background-color: #8C8E90;
+    color: #181818;
+}
+
+a:link {
+    background-color: #0B0B17;
+
+    padding: 1%;
+    color: #8D8D91;
+    text-decoration: none;
+    border: 4px double #8D8D91;
+}
+.Audiowide {
+    font-family: 'Audiowide', sans-serif;
+}
+a:active {
+    background-color: #222224;
+
+    padding: 1%;
+    color: #8E8E91;
+    text-decoration: none;
+    border: 4px double #8E8E91;
+}
+a:visited {
+    background-color: #8D8D91;
+
+    padding: 1%;
+    color: #0B0B17;
+    text-decoration: none;
+    border: 4px double #0B0B17;
+}
+u {
+    text-decoration: none;
+    border-bottom: 2px solid lightgrey;
+}
+b {
+   text-transform: uppercase;
+}
+i {
+    color: lightgrey;
+}
+#logo {
+    border-top-left-radius: 50%;
+    font-size: 150%;
+
+    width: 20%;
+    /* height: 20% ;*/
+
+    float: left;
+}
+#baner {
+    border-top-right-radius: 30%;
+    font-size: 150%;
+    padding: 2%;
+
+    width: 76%;
+    float: left;
+}
+header {
+    height: 180px;
+}
+#menu {
+    font-size: 120%;
+    padding: 2%;
+
+    width: 96%;
+}
+.nawigacja {
+    list-style: none;
+}
+li {
+    display: block;
+
+}
+#lewa {
+    font-size: 100%;
+    padding: 2%;
+
+    width: 16%;
+    float: left;
+}
+#tresc {
+    font-size: 100%;
+    text-align: justify;
+    text-indent: 10%;
+    padding: 2%;
+
+    width: 46%;
+    float: left;
+}
+#prawa {
+    font-size: 100%;
+    padding: 2%;
+
+    width: 26%;
+    float: left;
+}
+#stopka {
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    font-size: 150%;
+    padding: 2%;
+
+    width:96%;
+    float: left;
+}
